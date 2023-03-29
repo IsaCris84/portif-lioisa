@@ -1,0 +1,75 @@
+@font-face {font-family: always; src: url(../fontes/Always\ Smile.otf);}
+
+body {background-color: #cff7f7;}
+
+nav{background-color: #a677e4;text-align: center;text-decoration: none;
+    color: #cff7f7; 
+    font-size: 45px;
+    padding: 50px;}
+
+nav a {text-decoration: none;color: #bbfaea;border-radius: 20px; font-family: always;}
+
+nav .btsobre{font-family: always;
+             font-size: 45px;
+             color: #252e2c;
+             background-color: #00f7ea;border-radius: 20px;}
+
+
+nav .btprimeiro{font-family: always;
+                font-size: 45px;
+                color: #252e2c;
+                background-color: #00f7ea;border-radius: 20px;}
+
+nav .btsegundo{font-family: always;
+               font-size: 45px;
+               color: #252e2c;
+               background-color: #00f7ea;border-radius: 20px;}
+
+nav .btterceiro{font-family: always;
+                font-size: 45px;
+                color: #252e2c;
+                background-color: #00f7ea;border-radius: 20px;}
+
+.logo{position: relative;
+      bottom: 153px;
+      left: 150px;}
+
+h1{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    position: relative;
+    top: -600px;
+    color: #000000;
+    text-align: justify;
+    left: 20px;}
+
+p{font-family: 'Times New Roman', Times, serif;
+  font-size: 26px;
+  line-height: 40px;
+  color:#000;
+  text-align:justify;
+  top: 400px;
+  position: absolute;
+  width: 650px;
+  left: 20px;}
+
+.fotos{position: relative; padding: 15px;}
+.foto1 {left: 300px;position: relative;}
+.foto2 {left: 1000px;position: relative;}
+
+footer a{padding: 10px;}
+
+.footer{text-align: center;
+        background-color: #a677e4;
+        padding: 10px;}
+
+h4{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;}
+
+.foto1{opacity: 0.6; transition: opacity 1s; border-radius: 200px; background-color: #a677e4;}
+.foto1:hover{opacity: 1;}
+
+.foto2{opacity: 0.6; transition: opacity 1s; border-radius: 300px; background-color: #a677e4;}
+.foto2:hover{opacity: 1;}
+
+   label {color: #8af7ee;position: relative; top: -930px; left: 1500px;}
+   input {background-color: #dfcfee; border-radius: 30px;}

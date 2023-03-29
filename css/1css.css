@@ -1,0 +1,112 @@
+@font-face {font-family: always; src: url(../fontes/Always\ Smile.otf);}
+
+body {background-color: #cff7f7;}
+
+nav{background-color: #a677e4;text-align: center;text-decoration: none;
+    color: #cff7f7; 
+    font-size: 45px;
+    padding: 50px;}
+
+nav a {text-decoration: none;color: #bbfaea;border-radius: 20px; font-family: always;}
+
+nav .btsobre{font-family: always;
+             font-size: 45px;
+             color: #252e2c;
+             background-color: #00f7ea;border-radius: 20px;}
+
+
+nav .btprimeiro{font-family: always;
+                font-size: 45px;
+                color: #252e2c;
+                background-color: #00f7ea;border-radius: 20px;}
+
+nav .btsegundo{font-family: always;
+               font-size: 45px;
+               color: #252e2c;
+               background-color: #00f7ea;border-radius: 20px;}
+
+nav .btterceiro{font-family: always;
+                font-size: 45px;
+                color: #252e2c;
+                background-color: #00f7ea;border-radius: 20px;}
+
+.logo{position: relative;
+      bottom: 153px;
+      left: 150px}
+
+    h1{font-family:Georgia;
+       font-size: 40px;
+       position: relative;
+       top: -550px;
+       color: #a677e4;
+       text-align: center;
+       left: 20px;}
+
+.img{position: relative; padding: 15px;}
+    .img1 {left: 130px;position: relative; top: -80px;}
+    .img1{transition: all 0,5s;cursor: pointer;}
+    .img1:hover{filter: drop-shadow(8px 5px 5px #9c9b9b);}
+
+    .img2 {left: 440px;position: relative; top: -80px;}
+    .img2{transition: all 0,5s;cursor: pointer;}
+    .img2:hover{filter: drop-shadow(8px 5px 5px #9c9b9b);}
+
+    .img3 {left: 760px;position: relative; top: -90px;}
+    .img3{transition: all 0,5s;cursor: pointer;}
+    .img3:hover{filter: drop-shadow(8px 5px 5px #9c9b9b);}
+
+    h2{font-family:'Franklin Gothic Medium';
+        font-size: 22px;
+        line-height: 40px;
+        color:#665046;
+        text-align:justify;
+        top: 600px;
+        position: absolute;
+        width: 550px;
+        left: 20px;}
+    h2{opacity: 0.3; transition: opacity 1s;}
+    h2:hover{opacity: 1;}
+    h2{transition: all 0,5s;cursor: pointer;}
+    h2:hover{filter: drop-shadow(8px 5px 5px #8b8b8b);}
+        
+    h3{font-family: 'Franklin Gothic Medium';
+       font-size: 22px;
+       line-height: 40px;
+        color:#009ffc;
+        text-align:justify;
+        top: 530px;
+        position: absolute;
+        width: 480px;
+        left: 640px;
+        padding: 50px;}
+    h3{opacity: 0.3; transition: opacity 1s;}
+    h3:hover{opacity: 1;}
+    h3{transition: all 0,5s;cursor: pointer;}
+    h3:hover{filter: drop-shadow(8px 5px 5px #8f8f8f);}
+
+    
+    h4{font-family: 'Franklin Gothic Medium';
+       font-size: 22px;
+       line-height: 40px;
+       color:#60b400;
+       text-align:justify;
+       top: 570px;
+       width: 540px;
+       position: absolute;
+       left: 1290px;}
+    h4{opacity: 0.3; transition: opacity 1s;}
+    h4:hover{opacity: 1;}
+    h4{transition: all 0,5s;cursor: pointer;}
+    h4:hover{filter: drop-shadow(8px 5px 5px #9c9c9c);}
+
+    h5{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 25px;}
+    
+footer a{padding: 10px;}
+
+.footer{text-align: center;
+        background-color: #a677e4;
+        padding: 10px;}
+
+    label {color: #8af7ee;position: relative; top: -730px; left: 1500px;}
+    input {background-color: #dfcfee;border-radius: 30px;}
